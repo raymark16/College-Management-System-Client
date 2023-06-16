@@ -1,0 +1,54 @@
+.container2 {
+  margin-top: 200px;
+}
+.title_page {
+  color: #6D7781;
+  font-family: 'Sofia', cursive;
+  font-size: 15px;
+  font-weight: bold;
+  font-size: 3.6em;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.animated {
+  background: #1FCE6D;
+  border: 0;
+  width: 350px;
+  height: 40px;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 12px;
+  cursor: pointer;
+  margin-top: 35px;
+
+}
+.animated:hover {
+  background: #16aa56
+}
+.email, .password {
+   width: 350px;
+  padding: 20px 0px;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #435160;
+  outline: none;
+  color: #6D7781;
+  font-size: 16px;
+}
+.link_to_login {
+   color: #435160;
+  text-decoration: none;
+  margin-top: 30px;
+  display: block;
+  font-size: 11px;
+  text-align: center;
+  font-weight: bold;
+}
+.link_to_login:hover {
+   margin-top: 30px;
+  display: block;
+  font-size: 11px;
+  text-align: center;
+  font-weight: bold;
+  color: #6D7781;
+}
